@@ -33,10 +33,15 @@ For a demo of how to control a trained model to generate a graph for a set of co
 
 ## Bibliography
 
-If you use this code, please use this for citations:
+If you use this code, please use this for citations (bibtex):
 
 ```
-Coming soon.
+@INPROCEEDINGS{rupp_gpcgrl_2024,
+  author={Rupp, Florian and Eckert, Kai},
+  booktitle={2024 IEEE Conference on Games (CoG)}, 
+  title={G-PCGRL: Procedural Graph Data Generation via Reinforcement Learning}, 
+  year={2024},
+  doi={10.1109/CoG60054.2024.10645633}}
 ```
 
 
