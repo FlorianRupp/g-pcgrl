@@ -1,6 +1,6 @@
 # G-PCGRL: Procedural Graph Data Generation via Reinforcement Learning
 
-This is the code base for the conference paper of the same name, to be published in the proceedings of the IEEE Conference on Games 2024.
+This is the code base for the conference paper of the same name, published in the proceedings of the IEEE Conference on Games 2024.
 
 ### TL;DR;
 * G-PCGRL is a controllable approach to using [PCGRL](https://cdn.aaai.org/ojs/7416/7416-52-10717-1-2-20200923.pdf)  to generate graph data by manipulating a graph’s
@@ -36,7 +36,7 @@ For a demo of how to control a trained model to generate a graph for a set of co
 If you use this code, please use this for citations (bibtex):
 
 ```
-@INPROCEEDINGS{rupp_gpcgrl_2024,
+@inproceedings{rupp_gpcgrl_2024,
   author={Rupp, Florian and Eckert, Kai},
   booktitle={2024 IEEE Conference on Games (CoG)}, 
   title={G-PCGRL: Procedural Graph Data Generation via Reinforcement Learning}, 
